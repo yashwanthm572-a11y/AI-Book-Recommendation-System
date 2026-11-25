@@ -1,0 +1,22 @@
+
+book_id,title,author,genre,rating,description
+1,Harry Potter,J.K. Rowling,Fantasy,4.8,A young wizard discovers magical powers and attends a school of magic
+2,Lord of the Rings,J.R.R. Tolkien,Fantasy,4.9,A hero travels through a magical world to destroy a powerful ring
+3,The Hobbit,J.R.R. Tolkien,Fantasy,4.7,A hobbit begins an adventurous journey with dwarves and a wizard
+4,The Alchemist,Paulo Coelho,Adventure,4.6,A young shepherd follows his dreams and searches for treasure
+5,Atomic Habits,James Clear,Self Help,4.8,A practical guide to building good habits and improving daily life
+6,Rich Dad Poor Dad,Robert Kiyosaki,Finance,4.7,A book about financial education and building wealth
+7,Think and Grow Rich,Napoleon Hill,Self Help,4.5,A guide to success positive thinking and personal achievement
+8,The Psychology of Money,Morgan Housel,Finance,4.9,Lessons about money behavior investing and financial decisions
+9,The Silent Patient,Alex Michaelides,Thriller,4.6,A psychological thriller about a woman who stops speaking after a crime
+10,Gone Girl,Gillian Flynn,Thriller,4.5,A mysterious disappearance creates secrets and unexpected twists
+11,Sherlock Holmes,Arthur Conan Doyle,Mystery,4.8,A detective solves difficult mysteries through observation and logic
+12,Murder on the Orient Express,Agatha Christie,Mystery,4.7,A detective investigates a murder aboard a luxury train
+13,The Fault in Our Stars,John Green,Romance,4.6,A romantic story about two teenagers facing difficult challenges
+14,Me Before You,Jojo Moyes,Romance,4.5,A young woman develops a special relationship with a disabled man
+15,The Notebook,Nicholas Sparks,Romance,4.7,A romantic story about love memories and relationships
+16,Sapiens,Yuval Noah Harari,History,4.8,A study of human history and the development of civilization
+17,Brief History of Time,Stephen Hawking,Science,4.7,An introduction to space time black holes and the universe
+18,Cosmos,Carl Sagan,Science,4.8,A journey through astronomy science and the mysteries of the universe
+19,The Art of War,Sun Tzu,Strategy,4.5,An ancient guide about military strategy planning and leadership
+20,Deep Work,Cal Newport,Productivity,4.7,A guide to concentration focused work and productivity
